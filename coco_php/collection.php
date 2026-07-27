@@ -107,7 +107,6 @@ $user = currentUser();
         <a href="#terms">Terms of Service</a>
         <a href="#support">Customer Care</a>
       </div>
-      <p class="footer-copy">&copy; 2026 COCO Paris. All rights reserved.</p>
     </footer>
   </div>
 
