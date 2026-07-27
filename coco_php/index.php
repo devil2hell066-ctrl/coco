@@ -36,7 +36,7 @@ $user = currentUser();
           <a href="collection.php" class="nav-link">Product</a>
           <a href="#story" class="nav-link">Our Story</a>
           <a href="#event" class="nav-link">New and Event</a>
-          <a href="add-bag.php" class="nav-link">Add Bag</a>
+          <a href="add-bag.php" class="nav-link">Add Cart</a>
         </nav>
         <div class="nav-actions">
           <button class="icon-btn" aria-label="Search" id="search-btn">
